@@ -29,7 +29,7 @@ $('.slider').Slider.settings = {
 		'slideSpeed': 1000,
 		'images': [],
 		'autoSlide': true,
-		'widthButtons': false,
+		'withButtons': false,
 		'withSteps': false,
 	};
 ```
